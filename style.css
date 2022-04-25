@@ -1,0 +1,30 @@
+h1,
+h2 {
+    background-color: #7fffd4;
+    font-family: Helvetica, "Courier New", sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.toast,
+.pchops {
+    height: auto;
+    width: 500px;
+}
+
+.pancake {
+    height: auto;
+    width: 350px;
+}
+
+h3 {
+    background-color: #66F292;
+}
+p {
+    font-family: Helvetica, "Courier New", sans-serif;
+}
+
+li {
+    font-family: Helvetica, "Courier New", sans-serif;
+}

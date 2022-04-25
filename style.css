@@ -1,6 +1,6 @@
 h1,
 h2 {
-    background-color: #7fffd4;
+    background-color: #D1BD79;
     font-family: Helvetica, "Courier New", sans-serif;
 }
 h1 {
@@ -19,7 +19,8 @@ h1 {
 }
 
 h3 {
-    background-color: #66F292;
+    background-color: #D1BD79;
+    font-size: 24px;
 }
 p {
     font-family: Helvetica, "Courier New", sans-serif;
@@ -27,4 +28,12 @@ p {
 
 li {
     font-family: Helvetica, "Courier New", sans-serif;
+}
+
+ol {
+    text-align: justify;
+}
+
+body {
+    background-color: cornsilk;
 }
